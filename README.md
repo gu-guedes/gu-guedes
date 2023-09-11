@@ -9,4 +9,4 @@ Sempre envolvido com a area de exatas, fiz 4 anos de enegenharia de energia pela
 - ⚡ Além da area de tecnologia, curto muito aprender sobre neurociências e o mundo da musculação
 
 ### Já trabalhei com:
-<img src="#61DAFB" />
+<img src="react" />
