@@ -4,7 +4,7 @@ Sempre envolvido com a area de exatas, fiz 4 anos de enegenharia de energia pela
 
 - 🔭 Atualmente trabalho com react.js, node.js e tecnologias que complementam um projeto full stack como: Mongodb, postgres, jest.
 - 🌱 Aprendendo sobre nest e typescript
-- 🤔 Focado em aprender mais e mais... esse é meu foco atual
+- 🤔 Focado em aprender mais e mais...
 - 📫 Contato: guguedes.dev@gmail.com
 - ⚡ Além da area de tecnologia, curto muito aprender sobre neurociências e o mundo da musculação
 
